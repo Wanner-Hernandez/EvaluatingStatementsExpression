@@ -1,0 +1,8 @@
+com/wanner/Emitter.class
+com/wanner/Type.class
+com/wanner/Token.class
+com/wanner/LexicalScanner.class
+com/wanner/RecursiveDescentParser.class
+com/wanner/SyntaxException.class
+com/wanner/ParseException.class
+com/wanner/Main.class
